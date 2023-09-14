@@ -1,5 +1,6 @@
 # Procedural book tool for Unreal 5.2
-![HighresScreenshot00000](https://github.com/PietroSuppiej/BooksTool/assets/131447327/5abe572d-3168-4c9a-8eb8-07f6ae5b76b8)
+![HighresScreenshot00000](https://github.com/PietroSuppiej/BooksTool/assets/131447327/c20896d7-aeee-48ec-bf79-424013d611e2)
+
 Introducing the Blueprint Book Generator: Effortlessly populate your virtual scenes with realistic books, without the need for manual placement.
 Customize libraries, avoid collisions, and streamline your creative process.
 
@@ -8,4 +9,6 @@ In this project you can find the book tool blueprint, 12 books static meshes (ht
 To bake just right click n the actor > Scripted actions > Convert Static mesh
 
 
-![HighresScreenshot00001](https://github.com/PietroSuppiej/BooksTool/assets/131447327/359e6136-1043-4382-ba87-297d7bba3aa8) ![HighresScreenshot00002](https://github.com/PietroSuppiej/BooksTool/assets/131447327/1845f505-13e0-43c7-97fb-5b6a0a3d3a08)
+![HighresScreenshot00002](https://github.com/PietroSuppiej/BooksTool/assets/131447327/0ada9f35-680c-4a5e-97dc-b4cfc3654210)
+
+![HighresScreenshot00001](https://github.com/PietroSuppiej/BooksTool/assets/131447327/79ec9bd9-1d78-4e0c-ad47-2fcb60c8150d)
