@@ -4,6 +4,7 @@ Introducing the Blueprint Book Generator: Effortlessly populate your virtual sce
 Customize libraries, avoid collisions, and streamline your creative process.
 
 In this project you can find the book tool blueprint, 12 books static meshes (https://www.cgtrader.com/free-3d-models/architectural/decoration/12-hardcover-beige-books) and an editor utility blueprint that allows you to bake and save your blueprint into one singular static mesh actor.
+
 To bake just right click n the actor > Scripted actions > Convert Static mesh
 
 
