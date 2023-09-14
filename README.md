@@ -5,7 +5,8 @@ Customize libraries, avoid collisions, and streamline your creative process.
 
 In this project you can find the book tool blueprint, 12 books static meshes (https://www.cgtrader.com/free-3d-models/architectural/decoration/12-hardcover-beige-books) and an editor utility blueprint that allows you to bake and save your blueprint into one singular static mesh actor
 
-https://vimeo.com/864401129?share=copy
 
-![HighresScreenshot00001](https://github.com/PietroSuppiej/BooksTool/assets/131447327/359e6136-1043-4382-ba87-297d7bba3aa8)
-![HighresScreenshot00002](https://github.com/PietroSuppiej/BooksTool/assets/131447327/1845f505-13e0-43c7-97fb-5b6a0a3d3a08)
+https://github.com/PietroSuppiej/BooksTool/assets/131447327/5d90ebe3-ce79-4ec9-b3ac-287329a2f2fc
+
+
+![HighresScreenshot00001](https://github.com/PietroSuppiej/BooksTool/assets/131447327/359e6136-1043-4382-ba87-297d7bba3aa8) ![HighresScreenshot00002](https://github.com/PietroSuppiej/BooksTool/assets/131447327/1845f505-13e0-43c7-97fb-5b6a0a3d3a08)
